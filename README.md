@@ -19,21 +19,21 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
 
-<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Blue%201.gif" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Blue%201.gif" widtch="800">'
 
 Vulnerability #2: Session Hijacking/Fixation
 
-<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Blue%202.gif" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Blue%202.gif" widtch="800">'
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS)
 
-<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Green%201.gif" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Green%201.gif" widtch="800">'
 
 Vulnerability #2: Username Enumeration
 
-<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Green%202.gif" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Green%202.gif" widtch="800">'
 
 ## Red
 
