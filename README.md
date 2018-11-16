@@ -47,4 +47,4 @@ Vulnerability #2: Insecure Direct Object Reference (IDOR)
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+It was difficult to access the website, it showed error everytime I was trying to open it
