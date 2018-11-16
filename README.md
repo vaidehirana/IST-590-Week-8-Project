@@ -1,7 +1,7 @@
 # IST-590-Week-8-Project
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -17,9 +17,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection (SQLi)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
 
 
 ## Green
