@@ -21,7 +21,7 @@ Vulnerability #1: SQL Injection (SQLi)
 
 <img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Blue%201.gif" widtch="800">
 
-When I opened Red, Green and Blue target, I noticed one pattern in url where the salesperson page had ID assigned to each salesperson. I tried manipulating the url by adding comment ‘ after the ID number. In Green and Red page there was no error but in the blue target page there was a SQL error “Database query failed”. This error gave away SQL injection vulnerability on Blue target page, which was tasted by replacing id number with the SQL syntax ``` ' OR SLEEP(5)=0--' ```as shown in the video. This SQL syntax changes to ``` %27%20OR%20SLEEP(5)=0--%27 ``` when encoded in the url. This paused the site for 4-5 seconds confirming a successful SQL injection.
+When I opened Red, Green and Blue target and clicked salesperson info on each page, I noticed one pattern in url where each salesperson had an ID assigned. I tried manipulating the url by adding comment ' after the ID number. In Green and Red page there was no error but in the blue target page there was a SQL error “Database query failed”. This error gave away SQL injection vulnerability on Blue target page, which was tasted by replacing id number with the SQL syntax ``` ' OR SLEEP(5)=0--' ```as shown in the video. This SQL syntax changes to ``` %27%20OR%20SLEEP(5)=0--%27 ``` when encoded in the url. This paused the site for 4-5 seconds confirming a successful SQL injection.
 
 Vulnerability #2: Session Hijacking/Fixation
 
