@@ -37,13 +37,13 @@ Vulnerability #2: Username Enumeration
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Request Forgery (CSRF)
 
-<img src="" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Red%201.gif" widtch="800">
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference (IDOR)
 
-<img src="" widtch="800">
+<img src="https://github.com/vaidehirana/IST-590-Week-8-Project/blob/master/Red%202.gif" widtch="800">
 
 ## Notes
 
