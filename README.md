@@ -1,4 +1,4 @@
-# ISt-590-Week-8-Project
+# IST-590-Week-8-Project
 # Project 8 - Pentesting Live Targets
 
 Time spent: **X** hours spent in total
