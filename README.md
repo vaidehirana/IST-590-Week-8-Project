@@ -24,10 +24,9 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting (XSS)
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Username Enumeration
 
 ## Red
 
